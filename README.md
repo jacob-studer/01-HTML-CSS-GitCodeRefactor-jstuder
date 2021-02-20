@@ -3,9 +3,13 @@
 ---
 
 title: 01 HTML, CSS, and Git: Code Refactor
+
 description: Code Refactor for Horiseon's company webpage that includes the below User Story and Acceptance Criteria.
+
 author: Jacob Studer
+
 created:  2021 Feb 15
+
 modified: 2021 Feb 20
 
 ---

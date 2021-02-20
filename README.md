@@ -38,8 +38,8 @@ THEN I find a concise, descriptive title
 ```
 
 ## Screenshots
-![screenshot-1](https://github.com/jacob-studer/01.HTML.CSS.GitCodeRefactor.jstuder/assets/images/Horiseon-screenshot-1.png)
-![screenshot-2](https://github.com/jacob-studer/01.HTML.CSS.GitCodeRefactor.jstuder/assets/images/Horiseon-screenshot-2.png)
+![screenshot-1](https://raw.githubusercontent.com/jacob-studer/01.HTML.CSS.GitCodeRefactor.jstuder/main/assets/images/Horiseon-screenshot-1.PNG)
+![screenshot-2](https://raw.githubusercontent.com/jacob-studer/01.HTML.CSS.GitCodeRefactor.jstuder/main/assets/images/Horiseon-screenshot-2.PNG)
 
 ## Links
 https://github.com/jacob-studer/01.HTML.CSS.GitCodeRefactor.jstuder

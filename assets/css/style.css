@@ -4,27 +4,32 @@
     margin: 0;
 }
 
-body {
+/*Sets background color for body - no change made*/
+body { 
     background-color: #d9dcd6;
 }
 
-.header {
+/*Sets font-styling and background color for nav - no change made*/
+.header { 
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+/*Sets nav h1 inline and font size - no change made*/
+.header h1 { 
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+/*Sets different color for h1 span - no change made*/
+.header h1 .seo { 
     color: #d9dcd6;
 }
 
-.header div {
+/*Sets padding, margin, floats content to right, and font styling for links - no change made*/
+.header div { 
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,24 +37,29 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/*Sets removal of bullet points from links - no change made*/
+.header div ul { 
     list-style-type: none;
 }
 
+/*Sets inline and margin for links/li's - no change made*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*Sets color and removal of underline from links - no change made*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*Sets font size for paragraph text - no change made*/
 p {
     font-size: 16px;
 }
 
+/*Sets image size, margin, image, and image styling to figure image - no change made*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +69,47 @@ p {
     background-position: center;
 }
 
+/*Sets float left and margin for search-engine-optimization and social-media-marketing images - no change made*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Sets float right and margin for online-reputation-management image - no change made*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*Sets page width, inline, and margin to main section - no change made*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Sets mmargin, padding, font styling, and background color to content-sub class apart of main section - no change made*/
+.content-sub { /*Added content-sub class used to clean up CSS*/ /*Added changed order of content-sub and benefits-sub classes*/
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/*Sets sizing for content-sub img - no change made*/
+.content-sub img { /*Added content-sub class used to clean up CSS*/
+    max-height: 200px;
+}
+
+/*Sets margin and font sizing for content-sub h2 - no change made*/
+.content-sub h2 { /*Added content-sub class used to clean up CSS*/
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*Sets margin, padding, floating, width, height, font styling, and background color to aside section  - no change made*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,41 +121,26 @@ p {
     background-color: #2589bd;
 }
 
-.benefits-sub { /*benefits-sub class used to clean up CSS*/
+/*Sets margin and color to benefits-sub class a part of aside section - no change made*/
+.benefits-sub { /*Added benefits-sub class used to clean up CSS*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefits-sub h3 { /*benefits-sub class used to clean up CSS*/
+/*Sets margin and text alignment to benefits-sub class h3 a part of aside section - no change made*/
+.benefits-sub h3 { /*Added benefits-sub class used to clean up CSS*/
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits-sub img { /*benefits-sub class used to clean up CSS*/
+/*Sets display to block level, margin, and width of benefits-sub img a part of aside section - no change made*/
+.benefits-sub img { /*Added benefits-sub class used to clean up CSS*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.content-sub { /*content-sub class used to clean up CSS*/
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-
-.content-sub img { /*content-sub class used to clean up CSS*/
-    max-height: 200px;
-}
-
-..content-sub h2 { /*content-sub class used to clean up CSS*/
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/*Sets padding font styling and font alignment for footer - no change made*/
 .footer {
     padding: 30px;
     clear: both;
@@ -128,6 +148,7 @@ p {
     text-align: center;
 }
 
-.footer h4 { /*Corrected header for sequential order*/
+/*Sets font sizing for footer h4 - no change made*/
+.footer h4 { /*Added Corrected header for sequential order*/
     font-size: 20px;
 }

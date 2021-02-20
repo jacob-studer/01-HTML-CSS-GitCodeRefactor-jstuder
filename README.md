@@ -42,3 +42,5 @@ THEN I find a concise, descriptive title
 ![screenshot-2](https://github.com/jacob-studer/01.HTML.CSS.GitCodeRefactor.jstuder/assets/images/Horiseon-screenshot-2.png)
 
 ## Links
+https://github.com/jacob-studer/01.HTML.CSS.GitCodeRefactor.jstuder
+https://jacob-studer.github.io/01.HTML.CSS.GitCodeRefactor.jstuder/
